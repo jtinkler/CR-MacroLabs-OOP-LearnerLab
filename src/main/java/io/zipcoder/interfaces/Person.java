@@ -13,6 +13,12 @@ public class Person {
 
             }
 
+            Person(){
+
+
+                id = 0;
+            }
+
             long getId(){
                 return id;
 
